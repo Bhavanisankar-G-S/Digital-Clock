@@ -1,7 +1,7 @@
 # Unified Digital Clock, Calendar, & Timer Suite
 ### Dual-Paradigm Implementation: Embedded C++ (Hardware) & Synthesizable Verilog (RTL)
 
-Welcome to this comprehensive digital clock and timekeeping project! This repository showcases a complete end-to-end journey in digital systems engineering. It solves a complex multi-mode timing problem using two completely separate design methodologies:
+This repository showcases a complete end-to-end journey in digital systems engineering. It solves a complex multi-mode timing problem using two completely separate design methodologies:
 
 1. **Embedded Microcontroller Framework:** Microcontroller firmware utilizing cooperative software timing, switch debouncing, and bus-multiplexed hardware driving physical 7-segment displays.
 2. **Synthesizable Digital Logic (RTL):** Register-Transfer Level hardware description logic utilizing modular counters, custom clock dividers, and explicit Finite State Machines (FSM) to build a standalone silicon-ready time tracking chip.
